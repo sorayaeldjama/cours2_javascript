@@ -19,3 +19,17 @@ body{
     padding: 10px;
 }
 
+p{
+    visibility: hidden;
+    width: 240px;
+    margin: 10px auto 0;
+
+
+}
+
+.question_clicked{
+
+    background: rgb(47,47,47);
+    border-radius: 30px;
+    border: 6px dashed pink;
+}
